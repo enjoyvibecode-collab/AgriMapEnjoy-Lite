@@ -143,6 +143,12 @@
     animation: androidSlideUp 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
   }
   .android-section.active {
+    display: block !important;
+  }
+  .android-section.active.grid {
+    display: grid !important;
+  }
+  .android-section.active.flex {
     display: flex !important;
   }
 }
