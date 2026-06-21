@@ -1,0 +1,10 @@
+{
+  "name": "AgriMap Farm",
+  "description": "Sistem Informasi Geografis & Kalkulator Finansial Lahan Presisi untuk Kelompok Tani dan Pengusaha Agro Cabai & Mentimun.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
